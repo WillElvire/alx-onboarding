@@ -1,0 +1,4 @@
+1 - define input called square
+2 - define variable called sum and set to 0
+3 - if square is empty show message  "can you type valid number"
+4 - else if value is not empty  sum got square * square  value
